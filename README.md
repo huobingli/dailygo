@@ -1,2 +1,2 @@
 # dailygo
-dailygo
+daily go

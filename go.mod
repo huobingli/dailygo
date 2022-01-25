@@ -11,7 +11,9 @@ require (
 	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible // indirect
 	github.com/mingrammer/commonregex v1.0.1 // indirect
+	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/reactivex/rxgo/v2 v2.5.0 // indirect
+	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/spf13/cobra v1.3.0 // indirect
 	github.com/spf13/viper v1.10.1 // indirect
 	github.com/stretchr/objx v0.3.0 // indirect

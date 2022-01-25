@@ -12,4 +12,6 @@ func main() {
 	for item := range ch {
 		fmt.Println(item.V)
 	}
+
+	rxgo.Just()
 }

@@ -4,9 +4,13 @@ go 1.16
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
+	github.com/bamzi/jobrunner v1.0.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
 	github.com/cosmtrek/air v1.27.9 // indirect
 	github.com/creack/pty v1.1.11 // indirect
+	github.com/gin-gonic/gin v1.7.7 // indirect
+	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible // indirect
+	github.com/mingrammer/commonregex v1.0.1 // indirect
 	github.com/reactivex/rxgo/v2 v2.5.0 // indirect
 	github.com/spf13/cobra v1.3.0 // indirect
 	github.com/spf13/viper v1.10.1 // indirect

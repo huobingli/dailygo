@@ -10,7 +10,9 @@ require (
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
 	github.com/cosmtrek/air v1.27.9 // indirect
 	github.com/creack/pty v1.1.11 // indirect
+	github.com/darjun/go-daily-lib/twirp v0.0.0-20211102124847-ba6ea87c2cfa // indirect
 	github.com/gin-gonic/gin v1.7.7 // indirect
+	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible // indirect
 	github.com/mingrammer/commonregex v1.0.1 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect

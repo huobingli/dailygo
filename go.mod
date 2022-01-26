@@ -5,6 +5,8 @@ go 1.16
 require (
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/bamzi/jobrunner v1.0.0 // indirect
+	github.com/casbin/casbin v1.9.1 // indirect
+	github.com/casbin/casbin/v2 v2.40.6 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
 	github.com/cosmtrek/air v1.27.9 // indirect
 	github.com/creack/pty v1.1.11 // indirect
@@ -18,4 +20,5 @@ require (
 	github.com/spf13/viper v1.10.1 // indirect
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/teivah/onecontext v1.3.0 // indirect
+	github.com/urfave/negroni v1.0.0 // indirect
 )

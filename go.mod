@@ -26,5 +26,7 @@ require (
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/teivah/onecontext v1.3.0 // indirect
 	github.com/urfave/negroni v1.0.0 // indirect
+	github.com/xujiajun/nutsdb v0.6.0 // indirect
+	go.uber.org/zap v1.20.0 // indirect
 	xorm.io/xorm v1.2.5 // indirect
 )

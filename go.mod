@@ -21,6 +21,7 @@ require (
 	github.com/roylee0704/gron v0.0.0-20160621042432-e78485adab46
 	github.com/rs/zerolog v1.26.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
+	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.1
@@ -39,5 +40,6 @@ require (
 	gonum.org/v1/plot v0.10.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/h2non/gentleman.v2 v2.0.5
+	gopkg.in/ini.v1 v1.66.3 // indirect
 	xorm.io/xorm v1.2.5
 )

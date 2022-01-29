@@ -27,6 +27,7 @@ require (
 	github.com/teivah/onecontext v1.3.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/twitchtv/twirp v5.11.0+incompatible
+	github.com/uniplaces/carbon v0.1.6 // indirect
 	github.com/urfave/negroni v1.0.0
 	github.com/xujiajun/nutsdb v0.6.0
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect

@@ -22,6 +22,7 @@ require (
 	github.com/rs/zerolog v1.26.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/sirupsen/logrus v1.8.1 // indirect
+	github.com/spf13/cast v1.4.1 // indirect
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.1
